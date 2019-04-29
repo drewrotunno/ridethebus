@@ -9,7 +9,7 @@ One you reach the end, you drink proportional to the amount of turned cards.
 
 Some results: 
 Alowing the number of initial cards to vary is the primary independant variable in this exploration.
-The maxixmum you can add is 40, so playing with more than 12 cards allows the possibility of hitting 52, triggering a shuffle and restart. 
+The maximum you can add is 40, so playing with more than 12 cards allows the possibility of hitting 52, triggering a shuffle and restart. 
 The most common result for 8 initial cards is to add no cards.
 The most common result for 9 initial cards is to add all possible cards. 
 You can play with multiple decks in desired
